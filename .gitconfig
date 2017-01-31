@@ -1,0 +1,18 @@
+[user]
+	name = Lucas Moreira
+	email = eskerlucas1@gmail.com
+[alias]
+	st = status -s
+	who = shortlog -sn
+	cm = commit -am
+	co = checkout
+	com = checkout master
+	pullom = pull origin master
+	pushom = push origin master
+  lg = ! git log -10 --oneline --color | emojify
+
+[github]
+	user = fauker
+
+[core]
+  editor = nvim
