@@ -1,2 +1,3 @@
-# dotfiles
-:small_orange_diamond: fauker's dotfiles
+# Fauker's dotfiles
+
+## I'll store here my dotfiles!
